@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Kubernetes, System Design, and RAG pipelines**
 - 👯 I'm looking to collaborate on **backend and cloud projects**
 - 💬 Ask me about **Java, Spring Boot, JWT Auth, REST APIs, Azure, MySQL**
-- 📍 Based in Bengaluru, India
+- 📍 Based in Gulbarga, India
 
 ### 🛠️ Technologies and Tools I Use
 <p>
