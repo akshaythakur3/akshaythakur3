@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Akshaya Sing Thakur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Azure;GenAI+%26+RAG+Enthusiast;CS+Graduate+Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Azure;GenAI+%26+RAG+Enthusiast;Building+Scalable+Backend+Systems" />
 </p>
 
 ---
